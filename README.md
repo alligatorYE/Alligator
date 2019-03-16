@@ -1,2 +1,2 @@
 # Alligator
-built by alloigator in 2017
+built by alligator in 2017
